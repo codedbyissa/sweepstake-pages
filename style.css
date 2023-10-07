@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Cantarell&family=IBM+Plex+Mono:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Cantarell', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #484343;
     body{ 
         margin: 0;
