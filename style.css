@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Cantarell&family=IBM+Plex+Mono:ital@1&display=swap');
+
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Cantarell', sans-serif;
     color: #484343;
     body{ 
         margin: 0;
